@@ -1,0 +1,234 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/campaigns/every-dollar-counts.html",
+    "destination": "/test-templates-2026/en/revenue-agency/campaigns/every-dollar-counts.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information.html",
+    "destination": "/test-templates-2026/en/revenue-agency/corporate/contact-information.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/scams-fraud.html",
+    "destination": "/test-templates-2026/en/revenue-agency/corporate/scams-fraud.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/cra-multimedia-library.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/charities-video-gallery.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/cra-multimedia-library/charities-video-gallery.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/podcasts.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/cra-multimedia-library/podcasts.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/newsroom/criminal-investigations-actions-charges-convictions/20250612-drone-flight-operations-company-grounded-covid-19-subsidy-fraud-tax-evasion.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/newsroom/criminal-investigations-actions-charges-convictions/20250612-drone-flight-operations-company-grounded-covid-19-subsidy-fraud-tax-evasion.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/newsroom/criminal-investigations-actions-charges-convictions/20250612-drone-flight-operations-company-grounded-covid-19-subsidy-fraud-tax-evasion/new-page-1784746692080.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/newsroom/criminal-investigations-actions-charges-convictions/20250612-drone-flight-operations-company-grounded-covid-19-subsidy-fraud-tax-evasion/new-page-1784746692080.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2026/avoid-tax-season-surprises-keeping-cra-account-up-to-date.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2026/avoid-tax-season-surprises-keeping-cra-account-up-to-date.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2026/avoid-tax-season-surprises-keeping-cra-account-up-to-date/new-page-1784746628124.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2026/avoid-tax-season-surprises-keeping-cra-account-up-to-date/new-page-1784746628124.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2026/avoid-tax-season-surprises-keeping-cra-account-up-to-date/new-page-1784747010991.html",
+    "destination": "/test-templates-2026/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2026/avoid-tax-season-surprises-keeping-cra-account-up-to-date/new-page-1784747010991.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/archived-general-income-tax-benefit-package-2023.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/forms-publications/tax-packages-years/archived-general-income-tax-benefit-package-2023.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/archived-general-income-tax-benefit-package-2023/new-page-1784746703648.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/forms-publications/tax-packages-years/archived-general-income-tax-benefit-package-2023/new-page-1784746703648.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-g.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/5000-g.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/alberta/5009-c.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/alberta/5009-c.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/alberta/5009-c/new-page-1784746723813.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/forms-publications/tax-packages-years/general-income-tax-benefit-package/alberta/5009-c/new-page-1784746723813.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns/td1-forms-pay-received-on-january-1-later/td1.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns/td1-forms-pay-received-on-january-1-later/td1.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns/td1-forms-pay-received-on-january-1-later/td1/new-page-1784746730728.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns/td1-forms-pay-received-on-january-1-later/td1/new-page-1784746730728.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/tax/businesses/topics/payroll.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/contact.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/contact.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/who-apply.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/who-apply.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/t5013-partnership-information-return-filing-requirements/electronic-filing-t5013-partnership-information-return.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/t5013-partnership-information-return-filing-requirements/electronic-filing-t5013-partnership-information-return.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/tax-topics-partnerships.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/tax-topics-partnerships.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/taxes-brochure.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/taxes-brochure.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/support-the-claim.html",
+    "destination": "/test-templates-2026/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/support-the-claim.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/who-should-file-tax.html",
+    "destination": "/test-templates-2026/en/services/taxes/income-tax/personal-income-tax/who-should-file-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/campagnes/chaque-dollar-compte.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/campagnes/chaque-dollar-compte.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/coordonnees.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/organisation/coordonnees.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/arnaques-fraudes.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/organisation/arnaques-fraudes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/galerie-videos-entreprises.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/galerie-videos-entreprises.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/galerie-videos-particuliers.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/galerie-videos-particuliers.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/galerie-videos-organismes-bienfaisance.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/galerie-videos-organismes-bienfaisance.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/balados.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/balados.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/20250612-entreprise-operation-drones-clouee-fraudes-liees-subventions-covid-19-evasion-fiscale.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/20250612-entreprise-operation-drones-clouee-fraudes-liees-subventions-covid-19-evasion-fiscale.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/20250612-entreprise-operation-drones-clouee-fraudes-liees-subventions-covid-19-evasion-fiscale/nouvelle-page-1784746692080.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/20250612-entreprise-operation-drones-clouee-fraudes-liees-subventions-covid-19-evasion-fiscale/nouvelle-page-1784746692080.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2026/evitez-surprises-periode-impots-gardant-votre-compte-arc.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2026/evitez-surprises-periode-impots-gardant-votre-compte-arc.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2026/evitez-surprises-periode-impots-gardant-votre-compte-arc/nouvelle-page-1784746628124.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2026/evitez-surprises-periode-impots-gardant-votre-compte-arc/nouvelle-page-1784746628124.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2026/evitez-surprises-periode-impots-gardant-votre-compte-arc/nouvelle-page-1784747010991.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/nouvelles/salle-presse/conseils-fiscaux/conseils-fiscaux-2026/evitez-surprises-periode-impots-gardant-votre-compte-arc/nouvelle-page-1784747010991.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/archivee-trousse-generale-impot-prestations-2023.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/archivee-trousse-generale-impot-prestations-2023.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/archivee-trousse-generale-impot-prestations-2023/nouvelle-page-1784746703648.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/archivee-trousse-generale-impot-prestations-2023/nouvelle-page-1784746703648.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/trousse-generale-impot-prestations/5000-g.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/trousse-generale-impot-prestations/5000-g.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/trousse-generale-impot-prestations/alberta/5009-c.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/trousse-generale-impot-prestations/alberta/5009-c.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/trousse-generale-impot-prestations/alberta/5009-c/nouvelle-page-1784746723813.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/formulaires-publications/trousses-impot-toutes-annees-imposition/trousse-generale-impot-prestations/alberta/5009-c/nouvelle-page-1784746723813.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/td1-declarations-credits-impot-personnels/formulaires-td1-paies-recues-1er-janvier-apres/td1.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/formulaires-publications/td1-declarations-credits-impot-personnels/formulaires-td1-paies-recues-1er-janvier-apres/td1.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/td1-declarations-credits-impot-personnels/formulaires-td1-paies-recues-1er-janvier-apres/td1/nouvelle-page-1784746730728.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/formulaires-publications/td1-declarations-credits-impot-personnels/formulaires-td1-paies-recues-1er-janvier-apres/td1/nouvelle-page-1784746730728.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/contactez.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/contactez.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/qui-demande.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/qui-demande.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/entreprise-individuelle-societe-personnes/declarations-renseignements-societes-personnes-t5013-exigences-concernant-production/transmission-electronique-declarations-renseignements-societes-personnes-t5013.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/impot/entreprises/sujets/entreprise-individuelle-societe-personnes/declarations-renseignements-societes-personnes-t5013-exigences-concernant-production/transmission-electronique-declarations-renseignements-societes-personnes-t5013.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/entreprise-individuelle-societe-personnes/sujets-lies-a-impot-taxes-societes-personnes.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/impot/entreprises/sujets/entreprise-individuelle-societe-personnes/sujets-lies-a-impot-taxes-societes-personnes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/impots-depliant.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/impots-depliant.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/appuyer-la-demande.html",
+    "destination": "/test-templates-2026/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/appuyer-la-demande.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/qui-produire-declaration-revenus.html",
+    "destination": "/test-templates-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/qui-produire-declaration-revenus.html"
+  }
+]
